@@ -1,5 +1,5 @@
 #welcome {
-    background: linear-gradient(to right top, #E85D04, #F48C06);
+    background: linear-gradient(to right top, #6305dd, #390281);
     padding: 6rem 12%;
   }
   
@@ -61,7 +61,7 @@
   #about {
     text-align: center;
     padding: 3rem;
-    background-color: #FAA307;
+    background-color: #e48900;
     margin-top: 5rem;
   }
   
@@ -73,3 +73,5 @@
     font-size: 1.5rem;
     color: #353535;
   }
+
+  
