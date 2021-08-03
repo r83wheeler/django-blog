@@ -5,7 +5,7 @@ from django.shortcuts import render
 all_posts = [
     {
         "slug": "hike-in-the-mountains",
-        "image": "MichiganHiking300.jpg",
+        "image": "rRGCampsite.jpg",
         "author": "Russ Wheeler",
         "date": date(2021, 7, 1),
         "title": "Kentucky Hiking", 
@@ -20,7 +20,7 @@ all_posts = [
         "image": "skylineComputer.jpg",
         "author": "Russ Wheeler",
         "date": date(2022, 3, 10),
-        "title": "Programming Is Great!",
+        "title": "Programming Is Fun!",
         "excerpt": "Did you ever spend hours searching that one error in your code? Yep - that's what happened to me yesterday...",
         "content": """
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis
