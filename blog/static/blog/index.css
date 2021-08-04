@@ -1,5 +1,5 @@
 #welcome {
-    background: linear-gradient(to right top, #DBCEA9, #E7DEC5);
+    background: linear-gradient(to right top, #769b71, #5e9161);
     padding: 6rem 12%;
   }
   
@@ -61,16 +61,17 @@
   #about {
     text-align: center;
     padding: 3rem;
-    background-color: #5B9279;
+    background-image: url("arielTrees.jpg");
     margin-top: 5rem;
   }
   
   #about h2 {
     font-size: 3rem;
+    color: #e4e4e4;
   }
   
   #about p {
     font-size: 1.5rem;
-    color: #353535;
+    color: white;
   }
 
