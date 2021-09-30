@@ -61,7 +61,7 @@
   #about {
     text-align: center;
     padding: 3rem;
-    background-image: url("arielTrees.jpg");
+    background: linear-gradient(to right top, #74C69D, #2D6A4F);
     margin-top: 5rem;
   }
   
